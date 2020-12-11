@@ -1,0 +1,9 @@
+\\csfs\home$\mihajlov_m_m\Downloads\proga1ISIT\ПРОГААДЫНИСИТ\bin\Debug\ПРОГААДЫНИСИТ.exe.config
+\\csfs\home$\mihajlov_m_m\Downloads\proga1ISIT\ПРОГААДЫНИСИТ\obj\Debug\ПРОГААДЫНИСИТ.exe
+\\csfs\home$\mihajlov_m_m\Downloads\proga1ISIT\ПРОГААДЫНИСИТ\obj\Debug\ПРОГААДЫНИСИТ.pdb
+\\csfs\home$\mihajlov_m_m\Downloads\proga1ISIT\ПРОГААДЫНИСИТ\obj\Debug\proga1ISIT.csprojResolveAssemblyReference.cache
+\\csfs\home$\mihajlov_m_m\Downloads\proga1ISIT\ПРОГААДЫНИСИТ\bin\Debug\ПРОГААДЫНИСИТ.exe
+\\csfs\home$\mihajlov_m_m\Downloads\proga1ISIT\ПРОГААДЫНИСИТ\bin\Debug\ПРОГААДЫНИСИТ.pdb
+D:\proga1ISIT\ПРОГААДЫНИСИТ\bin\Debug\ПРОГААДЫНИСИТ.exe.config
+D:\proga1ISIT\ПРОГААДЫНИСИТ\obj\Debug\ПРОГААДЫНИСИТ.exe
+D:\proga1ISIT\ПРОГААДЫНИСИТ\obj\Debug\ПРОГААДЫНИСИТ.pdb
